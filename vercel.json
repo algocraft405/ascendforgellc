@@ -4,6 +4,6 @@
   "installCommand": "npm install",
   "buildCommand": "npm run build",
   "env": {
-    "DATABASE_URL": "postgresql://unused:unused@127.0.0.1:5432/unused"
+    
   }
 }
